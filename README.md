@@ -1,6 +1,3 @@
-フォルダ概要\
-prime_number_test　素数判定（試し割り法）\
-\
 ファイル概要\
 \
 round_robin.py　総当たり戦の回数を求める\
