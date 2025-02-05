@@ -5,4 +5,5 @@ fibonatchi.py　フィボナッチ数列をn個目まで出力\
 factorial.py　階乗\
 sum_of_each_digit.py　各桁の和\
 divisor.py　約数の一覧、個数、合計を求める\
-base_change.py　進数変換（10進数 → ～9進数まで変換可能）
+base_change.py　進数変換（10進数 → ～9進数まで変換可能）\
+base_change_2.py　2進数 → 10進数（未整理、未改良）
